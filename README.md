@@ -9,17 +9,15 @@ L'objectif de ce projet est de construire un modèle de classification binaire p
 ## Étapes Principales
 
 1. **Importation du Jeu de Données**
-
 2. **Préparation des Données**
-
 3. **Division des Données**
-
 4. **Entraînement du Modèle**
-
 5. **Évaluation du Modèle**
 
+## Jeu de Données
 
-
+Le jeu de données utilisé pour ce projet peut être téléchargé depuis le lien suivant :
+- [Lien vers le dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 
 ## Auteurs
 
